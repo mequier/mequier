@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
 <h3 align="center">A passionate mobile app developer from 🇹🇷</h3>
 
-- 💬 Ask me about **Flutter, React Native, Swift**
+- 💬 Ask me about **Flutter, Swift, NodeJS**
 
 - 📫 How to reach me **mertcangorkenn@icloud.com**
 
