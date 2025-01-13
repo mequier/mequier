@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">Native Mobile Developer \ ML Developer</h3>
-![Profile Views](https://komarev.com/ghpvc/?username=mertcangorkenn&color=green)
 
 - 💬 Ask me about **Flutter, Swift, Javascript and Python**
 - ⚡ Fun fact **I think I live Coding ❤️**
