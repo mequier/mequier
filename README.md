@@ -14,4 +14,4 @@
 - ## 🌐 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/mertcangorkenn)
 - 🐦 [Twitter](https://twitter.com/mertcangorkenn)
-- ✉️ [Email Me](mailto:mertcan@vcruvas.com)
+- ✉️ [Email Me](mailto:mertcan@cruvas.com)
