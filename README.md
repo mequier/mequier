@@ -1,12 +1,13 @@
+```json
 {
   "name": "Mertcan Gorken",
   "pronouns": ["He", "Him"],
   "ask_me_about": [
-  "Flutter", 
-  "Swift", 
-  "Javascript", 
-  "Python",
-  "Open Source Development"
+    "Flutter",
+    "Swift",
+    "Javascript",
+    "Python",
+    "Open Source Development"
   ],
   "fun_fact": "I don't need coffee",
   "languages": {
@@ -14,7 +15,7 @@
     "Swift": "Intermediate",
     "JavaScript": "Advanced",
     "Dart (Flutter)": "Advanced",
-    "Kotlin": "Beginner",
+    "Kotlin": "Beginner"
   },
   "technologies": {
     "backend": ["FastAPI", "Flask", "Langchain"],
