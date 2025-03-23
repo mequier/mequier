@@ -26,7 +26,6 @@
   },
   "socials": {
     "linkedin": "mertcangorkenn",
-    "twitter": "mertcangorkenn",
-    "email": "mertcan@cruvas.com"
+    "twitter": "mertcangorkenn"
   }
 }
